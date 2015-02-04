@@ -5,6 +5,7 @@ body{
 	font-family: helvetica, arial, sans-serif;
 	color:#545257; /*changes color of the whole text*/
 	margin-top: 0;
+	background-image: url('../img/wave.jpg');
 }
 #wrapper{
 	width:960px;
