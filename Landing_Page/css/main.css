@@ -8,6 +8,7 @@ body{
 	background-image: url('../img/wave.jpg');
 }
 #wrapper{
+	background-color: #ececec;
 	width:960px;
 	margin: 0 auto;
 	padding-left: 1%;
